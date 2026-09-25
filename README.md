@@ -162,7 +162,11 @@ The Gas Leakage Detection and Alert System demonstrates real-time gas leakage de
 When the detected gas level exceeds the predefined threshold, the system activates both a LED and buzzer to provide immediate visual and audible warnings. The LCD displays the corresponding system status.
 
 The project provides a simple, economical and effective prototype for gas leakage detection and safety monitoring.  
-## Result:
-![Result](BLOCKDIAGRAM.jpeg)
-![Result](schematic.pdf)
-![Result](simulationdiagram.jpeg)
+## Result
+
+![Block Diagram](./BLOCKDIAGRAM.jpeg)
+
+[View Schematic](./schematic.pdf)
+
+![Simulation Diagram](./simulationdiagram.jpeg
+
