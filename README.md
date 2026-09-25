@@ -164,5 +164,5 @@ When the detected gas level exceeds the predefined threshold, the system activat
 The project provides a simple, economical and effective prototype for gas leakage detection and safety monitoring.  
 ###Result:
 ![Result](BLOCKDIAGRAM.jpeg)
-![Result](schematic.pdf)
-![Result](simulationdiagram.jpeg)
+![Result](SCHEMATIC.pdf)
+![Result](SIMULATIONDIAGRAM.jpeg)
