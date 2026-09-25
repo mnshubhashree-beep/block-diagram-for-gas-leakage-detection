@@ -166,7 +166,7 @@ The project provides a simple, economical and effective prototype for gas leakag
 
 ![Block Diagram](./BLOCKDIAGRAM.jpeg)
 
-[View Schematic](./schematic.pdf)
+[View SCHEMATIC](./SCHEMATIC.pdf)
 
-![Simulation Diagram](./simulationdiagram.jpeg
+![SIMULATION](./SIMULATION.jpeg)
 
